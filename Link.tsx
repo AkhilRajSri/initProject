@@ -43,10 +43,6 @@ const OpenURLButton = ({url, children}: OpenURLButtonProps) => {
 
 
 const Link = () => {
-    useEffect(() => {
-        console.log("APP STARTED");
-        Linking.openURL(sURL);
-    },[])
   return (
     <View style={styles.container}>
       <OpenURLButton url={sURL}>Open Telephone</OpenURLButton>
