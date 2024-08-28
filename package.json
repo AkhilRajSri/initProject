@@ -14,7 +14,8 @@
     "appcenter-analytics": "5.0.1",
     "appcenter-crashes": "5.0.1",
     "react": "18.3.1",
-    "react-native": "0.75.2"
+    "react-native": "0.75.2",
+    "react-native-webview": "^13.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
