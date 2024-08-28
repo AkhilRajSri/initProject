@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/cli": "^14.0.1",
     "appcenter": "5.0.1",
     "appcenter-analytics": "5.0.1",
     "appcenter-crashes": "5.0.1",
